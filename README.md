@@ -21,7 +21,7 @@ This repository contains Python implementations and written analysis for two par
 | `selection.py` | Randomized Quickselect and Median of Medians with benchmarks |
 | `data_structures.py` | Dynamic array, stack, queue, linked list, and rooted tree |
 | `selection_comparison.png` | Benchmark chart (auto-generated when you run selection.py) |
-| `report.docx` | Full written report (APA 7th edition) |
+| `report.pdf` | Full written report (APA 7th edition) |
 
 ---
 
